@@ -1,0 +1,10 @@
+Title: "The application does not respond to changing display orientation.",
+
+Severity: "Minor",
+Priority: "Low",
+Environment: "Redmi note 7 Android 10 MIUA Global 12.5.3.0",
+Precondition:   [
+1) Install the AndroidGridTest application.,
+2) Allow to change display orientation in the smartphone,
+3) Open the AndroidGridTest application.
+]
